@@ -1,42 +1,42 @@
 # Tatia Tsiklauri, MD
 
-Physician-researcher developing reproducible clinical and healthcare data analytics projects.
+Physician-researcher building reproducible clinical and healthcare data analytics projects with Python, SQL, and Power BI.
 
-## Areas of Focus
+My work focuses on clinical data quality, surgical outcomes, EHR-style cohort logic, postmarket surveillance, and responsible interpretation of healthcare data.
 
-- Surgical outcomes and clinical data analytics
-- Medical-device safety and postmarket surveillance
-- Reconstructive and neurofunctional outcomes research
-- Clinical data quality and responsible interpretation
+## Selected Clinical Analytics Portfolio
 
-## Featured Project
-
-### Breast Implant Postmarket Safety Analysis
-
-Reproducible Python and Power BI analysis of 237,194 FDA MAUDE breast implant reports covering 2020–2025.
-
-The project includes:
-
-- An end-to-end Python data-processing pipeline
-- Linked report, device and patient-entry datasets
-- A reviewed complication-category taxonomy
-- Reporting-pattern and data-quality analyses
-- A four-page Power BI dashboard
-- 59 automated tests and GitHub Actions validation
-- Documented methodology, limitations and interpretation rules
-
-[Explore the project](https://github.com/tat1a/breast-implant-safety-analysis)
+| Project | Data / Domain | What it demonstrates |
+| --- | --- | --- |
+| [Breast Implant Postmarket Safety Analysis](https://github.com/tat1a/breast-implant-safety-analysis) | FDA MAUDE medical-device reports, 2020-2025 | Python pipeline, data cleaning, complication taxonomy, reporting-pattern analysis, Power BI dashboard, 59 automated tests |
+| [EHR Readmission and Care Quality Analytics](https://github.com/tat1a/ehr-readmission-quality-analytics) | Synthetic EHR-style inpatient encounters | EHR table modeling, index admission logic, 30-day readmission outcome, care-quality documentation checks, SQL validation, Power BI semantic model |
+| [Synthetic Surgical Registry Power BI](https://github.com/tat1a/synthetic-surgical-registry-powerbi) | Synthetic surgical registry operations | Dashboard-ready reporting layer, surgical registry KPIs, data-quality monitoring, Power BI report design |
+| [Synthetic Surgical Outcomes Registry](https://github.com/tat1a/synthetic-surgical-outcomes-registry) | Synthetic surgical outcomes registry | Data model design, validation logic, SQLite reconciliation, aggregate operational analytics |
 
 ## Technical Toolkit
 
-`Python` · `pandas` · `SQL` · `Power BI` · `DAX` · `Power Query` · `Git` · `GitHub Actions` · `pytest`
+`Python` · `pandas` · `SQL` · `SQLite` · `Power BI` · `DAX` · `Power Query` · `Git` · `GitHub Actions` · `pytest`
+
+## Clinical Analytics Focus
+
+- Cohort construction and denominator logic
+- EHR-style data modeling across patients, encounters, diagnoses, observations, and medications
+- Surgical outcomes and registry-style analytics
+- Healthcare data-quality checks and reconciliation
+- Dashboard-ready semantic models and KPI reporting
+- Transparent limitations for synthetic and observational data
 
 ## Working Principles
 
-- Reproducible analytical workflows
-- Explicit validation and reconciliation
-- Transparent methodological limitations
-- Responsible interpretation of observational healthcare data
+- Reproducible pipelines over one-off analysis
+- Explicit validation before visualization
+- Clear data dictionaries and methods documentation
+- Responsible interpretation without overstating clinical meaning
+- Portfolio work that can be defended in technical and clinical interviews
+
+## Current Direction
+
+I am developing a clinical analytics portfolio focused on healthcare data, surgical outcomes, EHR workflows, and research-ready reporting. The goal is to combine medical training with practical data skills for clinical research, quality improvement, and healthcare analytics roles.
 
 ## Connect
 
